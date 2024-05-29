@@ -72,7 +72,7 @@ WelcomeScreen As screen:
             PressedColor: =WelcomeScreenTitle.Color
             PressedFill: =WelcomeScreenTitle.Fill
             Size: =18
-            Text: ="Power Apps Training for Office"
+            Text: ="タイトル変更"
             Width: =350
             X: =14
             Y: =14
