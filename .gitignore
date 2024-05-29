@@ -1,0 +1,3 @@
+# Keep empty logs/ directory.
+/0529_test/*
+!/0529_test/.gitkeep
